@@ -184,7 +184,7 @@ The instance in evaluation mode, `MyModelWrapper().eval()`, would be the right a
 
 # Debugging & Reporting Errors
 
-Failure of `ai_edge_torch.convert(...)` can happen in a multiple different steps
+Failure of `ai_edge_torch.convert(...)` can happen in multiple different steps
 with verbose and potentially hard to understand error messages.
 
 The two high-level steps that users should be aware of are
